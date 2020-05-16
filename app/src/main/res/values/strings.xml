@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">GLCIF</string>
+    <string name="chooseAFood">Choose a Food</string>
+
+    <string-array name="foodNames">
+        <item>Barley</item>
+        <item>Bajra</item>
+        <item>Jowar</item>
+        <item>Wheat</item>
+        <item>Oats</item>
+        <item>Rice</item>
+        <item>Chana Dal</item>
+        <item>Rajma</item>
+        <item>Masoor Dal</item>
+        <item>Moong Dal(Green)</item>
+        <item>Toovar Dal</item>
+        <item>Kabuli Chana</item>
+        <item>Urad Dal</item>
+        <item>Milk</item>
+        <item>Curd</item>
+        <item>Onion</item>
+        <item>Shimla Mirch</item>
+        <item>Tomatoes</item>
+        <item>Bhindi</item>
+        <item>Green Peas</item>
+        <item>Sweet Potato</item>
+    </string-array>
+
+    <string-array name="servings">
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>1 Cup</item>
+        <item>1 Cup</item>
+        <item>75</item>
+        <item>75</item>
+        <item>75</item>
+        <item>75</item>
+        <item>75</item>
+        <item>75</item>
+    </string-array>
+
+    <string-array name="glycemicIndex">
+        <item>25</item>
+        <item>54</item>
+        <item>62</item>
+        <item>54</item>
+        <item>55</item>
+        <item>73</item>
+        <item>8</item>
+        <item>19</item>
+        <item>25</item>
+        <item>29</item>
+        <item>29</item>
+        <item>33</item>
+        <item>43</item>
+        <item>27</item>
+        <item>28</item>
+        <item>10</item>
+        <item>15</item>
+        <item>15</item>
+        <item>20</item>
+        <item>48</item>
+        <item>54</item>
+    </string-array>
+
+    <string-array name="carbs">
+        <item>20.8</item>
+        <item>11.2</item>
+        <item>21.7</item>
+        <item>21.3</item>
+        <item>19.6</item>
+        <item>23.0</item>
+        <item>17.9</item>
+        <item>17.9</item>
+        <item>17.6</item>
+        <item>18.3</item>
+        <item>16.9</item>
+        <item>18.2</item>
+        <item>17.7</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>6.7</item>
+        <item>6.7</item>
+        <item>6.2</item>
+        <item>11.1</item>
+        <item>21.1</item>
+    </string-array>
+
+    <string-array name="glycemicLoad">
+        <item>5.20</item>
+        <item>6.06</item>
+        <item>13.45</item>
+        <item>11.50</item>
+        <item>10.80</item>
+        <item>16.79</item>
+        <item>1.43</item>
+        <item>3.40</item>
+        <item>4.40</item>
+        <item>5.30</item>
+        <item>4.90</item>
+        <item>6.00</item>
+        <item>7.60</item>
+        <item>2.70</item>
+        <item>2.80</item>
+        <item>1.00</item>
+        <item>1.00</item>
+        <item>1.01</item>
+        <item>1.24</item>
+        <item>5.30</item>
+        <item>11.39</item>
+    </string-array>
+</resources>
